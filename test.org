@@ -20,6 +20,6 @@ This setup feels gorgeous!
 ** Git
    I have started using Git (via Magit), and now I still don't have good grips on it, but I will store my notes in it.
 *** Magit in Spacemacs   
-    I uncommented a git section in .spacemacs config file, and started using it through magit   commands (spc - spc - maggit-stuff).
+    I uncommented a git section in .spacemacs config file, and started using it through magit   commands (spc - spc - maggit-stuff). Use ctrl-c-ctrl-c to commit when writing reasons for commit.
 
 
