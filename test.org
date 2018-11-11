@@ -23,3 +23,5 @@ This setup feels gorgeous!
     I uncommented a git section in .spacemacs config file, and started using it through magit commands (spc - spc - maggit-stuff). Use ctrl-c-ctrl-c to commit when writing reasons for commit.
 
 ** Spacemacs
+* League of Legends
+The first part is always trying to dart around and observe the situation.
