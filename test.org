@@ -16,3 +16,7 @@ Another thing to do is to try and force yourself and then take a walk and discus
 * New Horizons
 You have just begin using Org-mode. You may now track your thoughts in an organized manner!!!
 This setup feels gorgeous!
+* Spacemacs & Git
+** Git
+   I have started using Git (via Magit), and now I still don't have good grips on it, but I will store my notes in it.
+
