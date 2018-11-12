@@ -23,5 +23,9 @@ This setup feels gorgeous!
     I uncommented a git section in .spacemacs config file, and started using it through magit commands (spc - spc - maggit-stuff). Use ctrl-c-ctrl-c to commit when writing reasons for commit.
 
 ** Spacemacs
+*** Themes
+I'm currently using themes from https://github.com/syl20bnr/spacemacs/tree/master/layers/%2Bthemes/themes-megapackhttps://github.com/syl20bnr/spacemacs/tree/master/layers/%2Bthemes/themes-megapack 
+You can choose themes with spc-T-s.
+
 * League of Legends
 The first part is always trying to dart around and observe the situation.
