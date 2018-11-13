@@ -27,6 +27,8 @@ This setup feels gorgeous!
 I'm currently using themes from https://github.com/syl20bnr/spacemacs/tree/master/layers/%2Bthemes/themes-megapackhttps://github.com/syl20bnr/spacemacs/tree/master/layers/%2Bthemes/themes-megapack 
 You can choose themes with spc-T-s.
 
+** Vim/GVim
+Write org-mode in GVim. I don't know if this helps.
 * League of Legends
 The first part is always trying to dart around and observe the situation.
 * Music 
