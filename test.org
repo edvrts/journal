@@ -1,41 +1,56 @@
 This is an Org-mode test file
-
 * Copied notes from VNote
 ** Beggining
 *** How do i write example notes?
-You start with paragraphs. Then you write, it's easy. Make a master lyrics file, then make a master note file that you share between devices. You might add a master poetry file, classify your thoughts.
-Add links and pictures and just classify your thoughts! Discuss with yourself anything! And train to write! Your writing is... pedestrian.
+You start with paragraphs. Then you write, it's easy. Make a master lyrics file,
+then make a master note file that you share between devices. You might add a
+master poetry file, classify your thoughts.  Add links and pictures and just
+classify your thoughts! Discuss with yourself anything! And train to write! Your
+writing is... pedestrian.
 *** I have succesfully started writing in ViM
 Use it. Markdown is now.
 ** Motivation
 *** Evenings
-Writing in the evenings is great way to gather whatever dirt you have dragged away with you. I have now written extra, just to practice writing.
+Writing in the evenings is great way to gather whatever dirt you have dragged
+away with you. I have now written extra, just to practice writing.
 *** When creative procceses move slow
-One tip is to create a free flowing musique-concrete-esque work. An older example is creating music without any regards to the stylistic, artistic or social value of if. In case of a freeze, create free-flowing work, experiment and care little or none at all.
-Another thing to do is to try and force yourself and then take a walk and discuss the project at hand.
+One tip is to create a free flowing musique-concrete-esque work. An older
+example is creating music without any regards to the stylistic, artistic or
+social value of if. In case of a freeze, create free-flowing work, experiment
+and care little or none at all.  Another thing to do is to try and force
+yourself and then take a walk and discuss the project at hand.
 * New Horizons
-You have just begin using Org-mode. You may now track your thoughts in an organized manner!!!
-This setup feels gorgeous!
+You have just begin using Org-mode. You may now track your thoughts in an
+organized manner!!!  This setup feels gorgeous!
 * Spacemacs & Git
-*Do not use Git for frequent changes*
-/Just divergent ones/
+Do not use Git for frequent changes* /Just divergent ones/
 ** Git
-I have started using Git (via Magit), and now I still don't have good grips on it, but I will store my notes in it.
+I have started using Git (via Magit), and now I still don't have good grips on
+it, but I will store my notes in it.
 *** Magit in Spacemacs   
-I uncommented a git section in .spacemacs config file, and started using it through magit commands (spc - spc - maggit-stuff). Use ctrl-c-ctrl-c to commit when writing reasons for commit.
+I uncommented a git section in .spacemacs config file, and started using it
+through magit commands (spc - spc - maggit-stuff). Use ctrl-c-ctrl-c to commit
+when writing reasons for commit.
 ** Spacemacs
 *** Themes
-I'm currently using themes from https://github.com/syl20bnr/spacemacs/tree/master/layers/%2Bthemes/themes-megapackhttps://github.com/syl20bnr/spacemacs/tree/master/layers/%2Bthemes/themes-megapack 
+I'm currently using themes from
+https://github.com/syl20bnr/spacemacs/tree/master/layers/%2Bthemes/themes-megapackhttps://github.com/syl20bnr/spacemacs/tree/master/layers/%2Bthemes/themes-megapack
 You can choose themes with spc-T-s.
 ** Vim/GVim
 Write org-mode in GVim. I don't know if this helps.
 * League of Legends
-The first part is always trying to dart around (for energy)and
-observe the situation (the intelectual part).
+The first part is always trying to dart around (for energy) and observe the
+situation (the intelectual part).
 * Music 
 Singing. Need singing.
 ** Themes
-I have found that I can seek wisdom from Queen's bicycle - fixate on one object, 
-center the theme around it.
-Don't stay on the theme, but jump around it. Like the lyric about the bicyle
-centers what you say.
+I have found that I can seek wisdom from Queen's bicycle - fixate on one object,
+center the theme around it.  Don't stay on the theme, but jump around it. Like
+the lyric about the bicyle centers what you say.
+* Motivation
+Prepare for sleep - for now. Flux it, prepare.
+** What i don't need
+I don't need to add notes if I don't have good ideas. Let it go, in those cases, man.
+
+
+
