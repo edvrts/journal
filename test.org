@@ -49,8 +49,9 @@ center the theme around it.  Don't stay on the theme, but jump around it. Like
 the lyric about the bicyle centers what you say.
 * Motivation
 Prepare for sleep - for now. Flux it, prepare.
-** What i don't need
+** What I don't need
 I don't need to add notes if I don't have good ideas. Let it go, in those cases, man.
-
-
-
+** Slow days...
+Capture nice little ways to fill the slowest of days.
+- Writing your .org file is one way to fill a slow day
+- Researching emacs, vim and org is another way
