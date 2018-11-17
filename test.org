@@ -36,6 +36,7 @@ when writing reasons for commit.
 I'm currently using themes from
 https://github.com/syl20bnr/spacemacs/tree/master/layers/%2Bthemes/themes-megapackhttps://github.com/syl20bnr/spacemacs/tree/master/layers/%2Bthemes/themes-megapack
 You can choose themes with spc-T-s.
+/Themes affect line numbers/
 ** Vim/GVim
 Write org-mode in GVim. I don't know if this helps.
 * League of Legends
@@ -54,4 +55,8 @@ I don't need to add notes if I don't have good ideas. Let it go, in those cases,
 ** Slow days...
 Capture nice little ways to fill the slowest of days.
 - Writing your .org file is one way to fill a slow day
-- Researching emacs, vim and org is another way
+- Researching emacs, vim and org is another wa
+* Customization
+** Windows
+** Linux
+** Mac
