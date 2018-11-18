@@ -38,9 +38,19 @@ https://github.com/syl20bnr/spacemacs/tree/master/layers/%2Bthemes/themes-megapa
 You can choose themes with spc-T-s.
 /Themes affect line numbers/
 *** Useful tips
-- Add links to different headlines with [[ and closing double brackets.  
+- Add links to different headlines with [[ and closing double brackets.
+- Toggle-frame-fullscreen (f11) to toggle fullscreen.
+*** Indirect Buffer
+Refer to https://orgmode.org/manual/Global-and-local-cycling.html for indirect buffers (indirect buffer is , b in spacemacs).
+Look in https://www.youtube.com/watch?v=VOfSjLwQY28 for examples. Resize by Ctrl-x + { (left) } (right), preceded by number to resize window - (see https://www.emacswiki.org/emacs/WindowResize).
+*** Line wrapping
+(See https://www.emacswiki.org/emacs/VisualLineMode)
+It's called visual-line-mode.
+You can add (setq line-move-visual nil) to wherever spacemacs needs (usually in .emacs). 
 ** Vim/GVim
 Write org-mode in GVim. I don't know if this helps.
+** Wishlist
+How do I add neccesary commands to startup files in EMACS?
 * League of Legends
 The first part is always trying to dart around (for energy) and observe the
 situation (the intelectual part).
@@ -58,6 +68,7 @@ I don't need to add notes if I don't have good ideas. Let it go, in those cases,
 ** Slow days...
 Capture nice little ways to fill the slowest of days.
 - Writing your .org file is one way to fill a slow day
+- Write specifically when Marta watches something interesting. Don't play, write.
 - Researching emacs, vim and org is another wa
 - Grow your [[Ledger of Quality]]
 * Customization
