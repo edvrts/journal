@@ -1,7 +1,4 @@
 This is an Org-mode test file
-* New Horizons
-You have just begin using Org-mode. You may now track your thoughts in an
-organized manner!!!  This setup feels gorgeous!
 * Spacemacs & Git
 Do not use Git for frequent changes* /Just divergent ones/
 ** Git
@@ -98,3 +95,8 @@ And maybe prone-to-being-forgetten things.
 ** Movies and TV shows
 - BoJack Horseman
 * Raps for practice
+* Archive
+** New Horizons
+ You have just begin using Org-mode. You may now track your thoughts in an
+ organized manner!!!  This setup feels gorgeous!
+
