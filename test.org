@@ -2,6 +2,7 @@ This is an Org-mode test file
 * New Horizons
 You have just begin using Org-mode. You may now track your thoughts in an
 organized manner!!!  This setup feels gorgeous!
+>>>>>>> parent of 02a7f89... Added archive and elaborated on music
 * Spacemacs & Git
 Do not use Git for frequent changes* /Just divergent ones/
 ** Git
@@ -20,9 +21,6 @@ You can choose themes with spc-T-s.
 *** Useful tips
 - Add links to different headlines with [[ and closing double brackets.
 - Toggle-frame-fullscreen (f11) to toggle fullscreen.
-- Spc + Tab is switch to scratch
-- Elfeed (and Elfeed-Org) for .rss in emacs
-- Toggle-mode-line to hide it https://www.reddit.com/r/spacemacs/comments/6nuvgm/hiding_mode_line_by_default/
 *** Indirect Buffer
 Refer to https://orgmode.org/manual/Global-and-local-cycling.html for indirect buffers (indirect buffer is , b in spacemacs).
 Look in https://www.youtube.com/watch?v=VOfSjLwQY28 for examples. Resize by Ctrl-x + { (left) } (right), preceded by number to resize window - (see https://www.emacswiki.org/emacs/WindowResize).
@@ -30,71 +28,73 @@ Look in https://www.youtube.com/watch?v=VOfSjLwQY28 for examples. Resize by Ctrl
 (See https://www.emacswiki.org/emacs/VisualLineMode)
 It's called visual-line-mode.
 You can add (setq line-move-visual nil) to wherever spacemacs needs (usually in .emacs). 
-*** Bookmarks
-https://www.youtube.com/watch?v=Mxpp91jo27A
 ** Vim/GVim
 Write org-mode in GVim. I don't know if this helps.
-Vim cheat sheet: https://vim.rtorr.com
 ** Wishlist
-- How do I add neccesary commands to startup files in EMACS?
-- How do I change the spaceline (or is it called status line?)
-- Org-Trello. Check it out.
+How do I add neccesary commands to startup files in EMACS?
 * League of Legends
 The first part is always trying to dart around (for energy) and observe the
 situation (the intelectual part).
 Kills, changes, action. Don't waste time on boring games. Plays, PLAYS, PLAAAAYS!!!
-Try to TRYHARD build when things ain't goin well / you're just adjusting to the game.
-** Builds
-Warmogs path is better for tanks.
-* Music
+* Music 
 Singing. Need singing.
 ** Themes
 I have found that I can seek wisdom from Queen's bicycle - fixate on one object,
 center the theme around it.  Don't stay on the theme, but jump around it. Like
 the lyric about the bicyle centers what you say.
-** Personas
-Write here the personas you intend to develop.
-** Methodology
 * Motivation
-Erryday, what must be present everyday.
-- Start the day with Keep, keep it simple and important.
-- Music
-- Pysical movement
-- Acts of composing, humming, thinking about composition stuff
-- *Preparation for sleep. Flux, and rituals*
-- [[Sleep rituals]] must be carefully made
+Prepare for sleep - for now. Flux it, prepare.
 ** What I don't need
 I don't need to add notes if I don't have good ideas. Let it go, in those cases, man.
-You don't need to think about failure, at least not constructively...
 ** Slow days...
 Capture nice little ways to fill the slowest of days.
 - Writing your .org file is one way to fill a slow day
 - Write specifically when Marta watches something interesting. Don't play, write.
-- Researching emacs, vim and org 
+- Researching emacs, vim and org is another wa
 - Grow your [[Ledger of Quality]]
-- Research new music
-** Sleep rituals
-- Thinking about beatiful dribble moves. Not just basketball, beaty, grace and POWER and COMPLETE DOMINANCE and more gracious grace.
 * Customization
 ** Windows
 ** Linux
 ** Mac
 ** The Ugly, the Useful and the Pretty
-What constitutes functionality and pretiness? What is the perfect ratio of these two parts?
+What constitutes functionaly and pretiness? What is the perfect ratio of these two parts?
 * Ledger of Quality
 Not for simply enjoyable things, ONLY FOR SLIGHTLY-EXCEPTIONAL THINGS.
 And maybe prone-to-being-forgetten things.
 ** Youtube
 - SNL
-- Philosphy interviews and history
 ** Reading
 - Wired Magazine
 ** Music
-- PJ Harvey: Community of Hope
-- Madvillain: America's Most Blunted
-- Beck: My Mind is on You
+- 
 ** Subreddits
 - CursedImages
+<<<<<<< HEAD
 ** Movies and TV shows
 - BoJack Horseman
 * Raps for practice
+* Archive
+** New Horizons
+ You have just begin using Org-mode. You may now track your thoughts in an
+ organized manner!!!  This setup feels gorgeous!
+** Copied notes from VNote
+*** Beggining
+**** How do i write example notes?
+ You start with paragraphs. Then you write, it's easy. Make a master lyrics file,
+ then make a master note file that you share between devices. You might add a
+ master poetry file, classify your thoughts.  Add links and pictures and just
+ classify your thoughts! Discuss with yourself anything! And train to write! Your
+ writing is... pedestrian.
+**** I have succesfully started writing in ViM
+ Use it. Markdown is now.
+*** Motivation
+**** Evenings
+ Writing in the evenings is great way to gather whatever dirt you have dragged
+ away with you. I have now written extra, just to practice writing.
+**** When creative procceses move slow
+ One tip is to create a free flowing musique-concrete-esque work. An older
+ example is creating music without any regards to the stylistic, artistic or
+ social value of if. In case of a freeze, create free-flowing work, experiment
+ and care little or none at all.  Another thing to do is to try and force
+ yourself and then take a walk and discuss the project at hand.
+
