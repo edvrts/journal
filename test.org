@@ -1,8 +1,4 @@
 This is an Org-mode test file
-* New Horizons
-You have just begin using Org-mode. You may now track your thoughts in an
-organized manner!!!  This setup feels gorgeous!
->>>>>>> parent of 02a7f89... Added archive and elaborated on music
 * Spacemacs & Git
 Do not use Git for frequent changes* /Just divergent ones/
 ** Git
@@ -21,6 +17,7 @@ You can choose themes with spc-T-s.
 *** Useful tips
 - Add links to different headlines with [[ and closing double brackets.
 - Toggle-frame-fullscreen (f11) to toggle fullscreen.
+- Learn emacs commands for text manipulation in insert mode
 *** Indirect Buffer
 Refer to https://orgmode.org/manual/Global-and-local-cycling.html for indirect buffers (indirect buffer is , b in spacemacs).
 Look in https://www.youtube.com/watch?v=VOfSjLwQY28 for examples. Resize by Ctrl-x + { (left) } (right), preceded by number to resize window - (see https://www.emacswiki.org/emacs/WindowResize).
@@ -30,8 +27,14 @@ It's called visual-line-mode.
 You can add (setq line-move-visual nil) to wherever spacemacs needs (usually in .emacs). 
 ** Vim/GVim
 Write org-mode in GVim. I don't know if this helps.
+Try a Vim distribution /w org mode.
 ** Wishlist
-How do I add neccesary commands to startup files in EMACS?
+- How do I add neccesary commands to startup files in EMACS?
+- Treemacs (file explorer)
+- Persistent scratchpad (tab spc)
+- Discord and IRC for emax
+- Git Time Machine to switch between commits
+- Change font to calibri in config
 * League of Legends
 The first part is always trying to dart around (for energy) and observe the
 situation (the intelectual part).
@@ -42,20 +45,35 @@ Singing. Need singing.
 I have found that I can seek wisdom from Queen's bicycle - fixate on one object,
 center the theme around it.  Don't stay on the theme, but jump around it. Like
 the lyric about the bicyle centers what you say.
+** Trickses
+Record acoustic songs and try to build from them.
 * Motivation
 Prepare for sleep - for now. Flux it, prepare.
+/creative mutations are my infinte commitment. i define
+all else through them/
+** Philosophy tidbits
+You are what you do. Think, but bring it about.
+You can't make everything clear, not yourself, not something else. [Kierkegaard, regarding an examined ethical life]
+Allign the contradiction that is your mind (pride) and your body (despair)[Pascal]
+What allows me to be (and to function and not perish) different is 
+what will allow me to eat from the tree of exclusivity. [Me, the Grape-Liquifier]
 ** What I don't need
 I don't need to add notes if I don't have good ideas. Let it go, in those cases, man.
 ** Slow days...
 Capture nice little ways to fill the slowest of days.
 - Writing your .org file is one way to fill a slow day
 - Write specifically when Marta watches something interesting. Don't play, write.
-- Researching emacs, vim and org is another wa
+- Researching emacs, vim and org is another way.
 - Grow your [[Ledger of Quality]]
+- Grow your [[Philosophy tidbits]]
+- Practice using XKeymacs and Emacs keystrokes when writing (start /w movement keys and alts enabled)
 * Customization
 ** Windows
+- I have disabled Cpslck with KeyTweak and use caps lock to trigger XKeymacs 
 ** Linux
 ** Mac
+** Vivaldi
+Password is S with 123456
 ** The Ugly, the Useful and the Pretty
 What constitutes functionaly and pretiness? What is the perfect ratio of these two parts?
 * Ledger of Quality
@@ -63,16 +81,19 @@ Not for simply enjoyable things, ONLY FOR SLIGHTLY-EXCEPTIONAL THINGS.
 And maybe prone-to-being-forgetten things.
 ** Youtube
 - SNL
+- Interview with Hubert Dreyfus
 ** Reading
 - Wired Magazine
 ** Music
-- 
+- Community of Hope: PJ Harvery 
 ** Subreddits
 - CursedImages
-<<<<<<< HEAD
 ** Movies and TV shows
 - BoJack Horseman
+** Pics
+https://www.reddit.com/r/adorableporn/comments/a00ryx/emily_bloom_uhd/
 * Raps for practice
+** Loser
 * Archive
 ** New Horizons
  You have just begin using Org-mode. You may now track your thoughts in an
