@@ -1,6 +1,6 @@
 This is an Org-mode test file
 * Spacemacs & Git
-Do not use Git for frequent changes* /Just divergent ones/
+ Do not use Git for frequent changes* /Just divergent ones/
 ** Git
 I have started using Git (via Magit), and now I still don't have good grips on
 it, but I will store my notes in it.
@@ -14,13 +14,12 @@ I'm currently using themes from
 https://github.com/syl20bnr/spacemacs/tree/master/layers/%2Bthemes/themes-megapackhttps://github.com/syl20bnr/spacemacs/tree/master/layers/%2Bthemes/themes-megapack
 You can choose themes with spc-T-s.
 /Themes affect line numbers/
-*** Useful tips
-- Add links to different headlines with [[ and closing double brackets.
-- Toggle-frame-fullscreen (f11) to toggle fullscreen.
-- Learn emacs commands for text manipulation in insert mode
 *** Indirect Buffer
 Refer to https://orgmode.org/manual/Global-and-local-cycling.html for indirect buffers (indirect buffer is , b in spacemacs).
 Look in https://www.youtube.com/watch?v=VOfSjLwQY28 for examples. Resize by Ctrl-x + { (left) } (right), preceded by number to resize window - (see https://www.emacswiki.org/emacs/WindowResize).
+*** Quick notes and logging
+https://www.youtube.com/watch?v=nUvdddKZQzs&list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE&index=9
+You can setup drawers to store your notes in.
 *** Line wrapping
 (See https://www.emacswiki.org/emacs/VisualLineMode)
 It's called visual-line-mode.
@@ -35,6 +34,17 @@ Try a Vim distribution /w org mode.
 - Discord and IRC for emax
 - Git Time Machine to switch between commits
 - Change font to calibri in config
+** Useful tips
+   :LOGBOOK:
+   - Note taken on [2018-11-27 otrd. 01:09] \\
+     this is a test note
+   :END:
+- Add links to different headlines with [[ and closing double brackets.
+- Toggle-frame-fullscreen (f11) to toggle fullscreen.
+- Learn emacs commands for text manipulation in insert mode
+- , R for Refile to different heading
+- C-c C-z for a quick note, see [[Quick notes and logging]]
+- Evil-org-mode keybindings  https://github.com/Somelauw/evil-org-mode
 * League of Legends
 The first part is always trying to dart around (for energy) and observe the
 situation (the intelectual part).
@@ -95,9 +105,6 @@ https://www.reddit.com/r/adorableporn/comments/a00ryx/emily_bloom_uhd/
 * Raps for practice
 ** Loser
 * Archive
-** New Horizons
- You have just begin using Org-mode. You may now track your thoughts in an
- organized manner!!!  This setup feels gorgeous!
 ** Copied notes from VNote
 *** Beggining
 **** How do i write example notes?
@@ -119,3 +126,8 @@ https://www.reddit.com/r/adorableporn/comments/a00ryx/emily_bloom_uhd/
  and care little or none at all.  Another thing to do is to try and force
  yourself and then take a walk and discuss the project at hand.
 
+** New Horizons
+ You have just begin using Org-mode. You may now track your thoughts in an
+ organized manner!!!  This setup feels gorgeous!
+
+:LOGBOOK:
