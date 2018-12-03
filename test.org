@@ -28,12 +28,13 @@ You can add (setq line-move-visual nil) to wherever spacemacs needs (usually in 
 Write org-mode in GVim. I don't know if this helps.
 Try a Vim distribution /w org mode.
 ** Wishlist
-- How do I add neccesary commands to startup files in EMACS?
-- Treemacs (file explorer)
-- Persistent scratchpad (tab spc)
-- Discord and IRC for emax
-- Git Time Machine to switch between commits
-- Change font to calibri in config
++ How do I add neccesary commands to startup files in EMACS?
++ Treemacs (file explorer)
++ Persistent scratchpad (tab spc)
++ Discord and IRC for emax
++ Git Time Machine to switch between commits
++ Change font to calibri in config
++ Undo tree (use command undo-tree-auto-save-history to save undo history)
 ** Useful tips
    :LOGBOOK:
    - Note taken on [2018-11-27 otrd. 01:09] \\
@@ -47,12 +48,20 @@ Try a Vim distribution /w org mode.
 - Evil-org-mode keybindings  https://github.com/Somelauw/evil-org-mode
 * League of Legends
   :LOGBOOK:
+  - Note taken on [2018-12-04 otrd. 00:15] \\
+    Riven - precharge q, to get passive and move and confuse
+  - Note taken on [2018-12-03 pirmd. 22:11] \\
+    Cho - Hextech belt to warmogs is dope, + armor and mr keystone
+  - Note taken on [2018-11-30 piektd. 20:51] \\
+    Xaya needs 3 quick attack rune, she bursty
   - Note taken on [2018-11-27 otrd. 01:26] \\
     AD tf does pitful damage, and a lot of it is still magic
   :END:
 The first part is always trying to dart around (for energy) and observe the
 situation (the intelectual part).
 Kills, changes, action. Don't waste time on boring games. Plays, PLAYS, PLAAAAYS!!!
+Do not stay put with weak ass, average performances. Want more. 
+Do a chore before starting, it's good and increases performance.
 * Music 
 Singing. Need singing.
 ** Themes
@@ -81,6 +90,7 @@ Capture nice little ways to fill the slowest of days.
 - Grow your [[Ledger of Quality]]
 - Grow your [[Philosophy tidbits]]
 - Practice using XKeymacs and Emacs keystrokes when writing (start /w movement keys and alts enabled)
+- Take a zany not before sleep, but an hour before sleep!
 * Customization
 ** Windows
 - I have disabled Cpslck with KeyTweak and use caps lock to trigger XKeymacs
@@ -138,5 +148,4 @@ https://www.reddit.com/r/adorableporn/comments/a00ryx/emily_bloom_uhd/
  yourself and then take a walk and discuss the project at hand.
 ** New Horizons
  You have just begin using Org-mode. You may now track your thoughts in an
- organized manner!!!  This setup feels gorgeous!
- 
+ organized manner!!!  This setup feels gorgeous! 
