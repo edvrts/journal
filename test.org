@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+
+
 This is an Org-mode test file
 * Spacemacs & Git
 Do not use Git for frequent changes /Just divergent ones/
@@ -24,17 +34,19 @@ You can setup drawers to store your notes in.
 (See https://www.emacswiki.org/emacs/VisualLineMode)
 It's called visual-line-mode.
 You can add (setq line-move-visual nil) to wherever spacemacs needs (usually in .emacs). 
+*** Find character
+SPC j j to go to character. It's called avy.
 ** Vim/GVim
 Write org-mode in GVim. I don't know if this helps.
 Try a Vim distribution /w org mode.
 ** Wishlist
-+ How do I add neccesary commands to startup files in EMACS?
-+ Treemacs (file explorer)
-+ Persistent scratchpad (tab spc)
-+ Discord and IRC for emax
-+ Git Time Machine to switch between commits
-+ Change font to calibri in config
-+ Undo tree (use command undo-tree-auto-save-history to save undo history)
+- How do I add neccesary commands to startup files in EMACS?
+- Treemacs (file explorer)
+- Persistent scratchpad (tab spc)
+- Discord and IRC for emax
+- Git Time Machine to switch between commits
+- Change font to calibri in config
+- Undo tree (use command undo-tree-auto-save-history to save undo history)
 ** Useful tips
    :LOGBOOK:
    - Note taken on [2018-11-27 otrd. 01:09] \\
@@ -46,6 +58,7 @@ Try a Vim distribution /w org mode.
 - , R for Refile to different heading
 - C-c C-z for a quick note, see [[Quick notes and logging]]
 - Evil-org-mode keybindings  https://github.com/Somelauw/evil-org-mode
+- /see other configs for guides/
 * League of Legends
   :LOGBOOK:
   - Note taken on [2018-12-04 otrd. 00:15] \\
@@ -90,8 +103,10 @@ Capture nice little ways to fill the slowest of days.
 - Researching emacs, vim and org is another way.
 - Grow your [[Ledger of Quality]]
 - Grow your [[Philosophy tidbits]]
+- Grow your [[Customization]]
 - Practice using XKeymacs and Emacs keystrokes when writing (start /w movement keys and alts enabled)
 - Take a zany not before sleep, but an hour before sleep!
+- Write a poem or a rap
 * Customization
 ** Windows
 - I have disabled Cpslck with KeyTweak and use caps lock to trigger XKeymacs
@@ -126,6 +141,13 @@ https://www.reddit.com/r/adorableporn/comments/a00ryx/emily_bloom_uhd/
 ** Poets
 - Jack Keroauc
 * Raps & Poems
+  :LOGBOOK:
+  - Note taken on [2018-12-05 trešd. 22:02] \\
+    I piss on the crzyanthems
+    With reckless joy
+    I wish on the morbid ones
+    My reckless joy
+  :END:
 ** Loser
 ** Vardle
 I scrape my leftovers
@@ -156,3 +178,4 @@ But not what the man means
 ** New Horizons
  You have just begin using Org-mode. You may now track your thoughts in an
  organized manner!!!  This setup feels gorgeous! 
+ 
