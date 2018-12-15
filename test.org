@@ -4,10 +4,6 @@
 
 
 
-
-
-
-
 This is an Org-mode test file
 * Spacemacs & Git
 Do not use Git for frequent changes /Just divergent ones/
@@ -36,6 +32,11 @@ It's called visual-line-mode.
 You can add (setq line-move-visual nil) to wherever spacemacs needs (usually in .emacs). 
 *** Find character
 SPC j j to go to character. It's called avy.
+*** Writeroom-mode
+Looks like goyo for vim. Activate /w writeroom command.
+See: https://github.com/joostkremers/writeroom-mode
+*** CUA-mode (added under dotspacemacs/user-config)
+Seems to work, remove the code snippet if it doesn't.
 ** Vim/GVim
 Write org-mode in GVim. I don't know if this helps.
 Try a Vim distribution /w org mode.
@@ -81,8 +82,13 @@ Singing. Need singing.
 I have found that I can seek wisdom from Queen's bicycle - fixate on one object,
 center the theme around it.  Don't stay on the theme, but jump around it. Like
 the lyric about the bicyle centers what you say.
+
+Study Beck's The New Pollution and Odelay!
+
+Find new melodic patterns - your shtick is old!
 ** Trickses
 Record acoustic songs and try to build from them.
+Develop more synths (listen to your own Academic scetches).
 * Motivation
 Prepare for sleep - for now. Flux it, prepare.
 /creative mutations are my infinte commitment. i define
@@ -107,14 +113,21 @@ Capture nice little ways to fill the slowest of days.
 - Practice using XKeymacs and Emacs keystrokes when writing (start /w movement keys and alts enabled)
 - Take a zany not before sleep, but an hour before sleep!
 - Write a poem or a rap
+- StumbleUpon (now called mix, or use Discuvver, or AllTop)
+- Check your RSS
 * Customization
 ** Windows
 - I have disabled Cpslck with KeyTweak and use caps lock to trigger XKeymacs
 - Get 2 taskbars, hide 1? Get an alternative bar for battery, volume, etc.
+- Install and activate linux in yer compyeeter (windows or MacBook)
 ** Linux
+*** Try Awesome WM and its panel
 ** Mac
 ** Vivaldi
 Password is S with 123456
+*** Access keys - site specific shortcuts - alt + shift 
+alt + z to show the shortcuts
+See: https://help.vivaldi.com/article/webpage-access-key-shortcuts/
 ** The Ugly, the Useful and the Pretty
 What constitutes functionaly and pretiness? What is the perfect ratio of these two parts?
 - A minimal panel seems to be all I need
@@ -130,6 +143,7 @@ And maybe prone-to-being-forgetten things.
 ** Music
 - Community of Hope: PJ Harvery
 - Thundercat: Them Changes
+- The New Pollution
 ** Subreddits
 - CursedImages
 - 4chan Mu
@@ -142,18 +156,31 @@ https://www.reddit.com/r/adorableporn/comments/a00ryx/emily_bloom_uhd/
 - Jack Keroauc
 * Raps & Poems
   :LOGBOOK:
+  - Note taken on [2018-12-15 sestd. 21:20] \\
+    I scrape my leftovers
+    To oblidge
+    What the man says
+    But not what the man means
+  - Note taken on [2018-12-15 sestd. 19:12] \\
+    Es esmu pasaules miskaste,
+    Bet reizēm pasaule aizmirst,
+    un izmet kaut ko skaistu.
+  - Note taken on [2018-12-14 piektd. 23:58] \\
+    Absolute wisdom
+    abound
+    When I realize, what I can skip
+    when I'm under the ground
   - Note taken on [2018-12-05 trešd. 22:02] \\
     I piss on the crzyanthems
     With reckless joy
     I wish on the morbid ones
     My reckless joy
+   - Note taken on [2018-12-06 ceturtd. 01:09] \\
+     Endless is my joy
+     When I squander, relax
+     and do not wonder
   :END:
 ** Loser
-** Vardle
-I scrape my leftovers
-To oblidge
-What the man says
-But not what the man means
 * Archive
 ** Copied notes from VNote
 *** Beggining
